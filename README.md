@@ -1,7 +1,7 @@
 # PROMPT-ENGINEERING-2. Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
 ```
-NAME: Shakthi Sundar K
-REG N0: 212222040152
+NAME: Pandidharan G R
+REG N0: 212222040111
 ```
 
 ## 1. Introduction to Prompting Patterns
